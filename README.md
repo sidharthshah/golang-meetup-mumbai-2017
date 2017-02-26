@@ -7,6 +7,9 @@
 - [Visual Studio Code](https://code.visualstudio.com/) is an open source editor like Atom. [Setting Go Development Enviroment with Visual Studio Code](https://rominirani.com/setup-go-development-environment-with-visual-studio-code-7ea5d643a51a#.xnf3r3ns0)
 - [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) is a tool which does static analysis on existing code and figure out what to import
 - [GoSublime](https://github.com/DisposaBoy/GoSublime) is a recommended plugin for Sublime
+- [GopherAcademy](https://blog.gopheracademy.com/) is a nice blog for Golang
+- [Delve](https://github.com/derekparker/delve) debugger for go programming language
+- [Youtube Channel](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw) for tutorials
 
 ## Setting up Go
 
