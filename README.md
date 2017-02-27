@@ -10,6 +10,7 @@
 - [GopherAcademy](https://blog.gopheracademy.com/) is a nice blog for Golang
 - [Delve](https://github.com/derekparker/delve) debugger for go programming language
 - [Youtube Channel](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw) for tutorials
+- [Workshop on using Go for Web Applications](https://github.com/campoy/go-web-workshop)
 
 ## Setting up Go
 
